@@ -33,3 +33,12 @@
   border-radius: 5px;
   
 }
+
+.waveText {
+    text-align: center;
+    cursor: pointer;
+    margin-top: 16px;
+    padding: 16px;
+    border: 2px solid red;
+    border-radius: 5px;
+}
